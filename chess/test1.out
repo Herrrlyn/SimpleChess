@@ -1,0 +1,91 @@
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+
+ abcdefgh
+White turn to move.
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4 P_ _ _ _
+3 _ _ _ _ 
+2  PPPPPPP
+1 RNBQKBNR
+
+ abcdefgh
+Black turn to move.
+8 r_bqkbnr
+7 pppppppp
+6 n_ _ _ _
+5 _ _ _ _ 
+4 P_ _ _ _
+3 _ _ _ _ 
+2  PPPPPPP
+1 RNBQKBNR
+
+ abcdefgh
+White turn to move.
+8 r_bqkbnr
+7 pppppppp
+6 n_ _ _ _
+5 _ _ _ _ 
+4 P_P_ _ _
+3 _ _ _ _ 
+2  P PPPPP
+1 RNBQKBNR
+
+ abcdefgh
+Black turn to move.
+8  rbqkbnr
+7 pppppppp
+6 n_ _ _ _
+5 _ _ _ _ 
+4 P_P_ _ _
+3 _ _ _ _ 
+2  P PPPPP
+1 RNBQKBNR
+
+ abcdefgh
+White turn to move.
+8  rbqkbnr
+7 pppppppp
+6 n_ _ _ _
+5 _ _ _ _ 
+4 P_P_ _ _
+3 R _ _ _ 
+2  P PPPPP
+1 _NBQKBNR
+
+ abcdefgh
+Black turn to move.
+8  rbqkbnr
+7 pppppp_p
+6 n_ _ _p_
+5 _ _ _ _ 
+4 P_P_ _ _
+3 R _ _ _ 
+2  P PPPPP
+1 _NBQKBNR
+
+ abcdefgh
+White turn to move.
+Checkmate! Black wins!
+8 rnbqkbnr
+7 pppppppp
+6  _ _ _ _
+5 _ _ _ _ 
+4  _ _ _ _
+3 _ _ _ _ 
+2 PPPPPPPP
+1 RNBQKBNR
+
+ abcdefgh
+Final score:
+White: 0
+Black: 1
